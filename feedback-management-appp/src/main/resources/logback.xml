@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
-    <property name="HOME_LOG" value="C:\\Users\\venka\\Downloads\\feedback-management-System\\feedback-management-System\\log\\fsm.log"/>
+    <property name="HOME_LOG" value="D:\\java projects\\feedback-management-appp\\log\\fsm.log"/>
 
     <appender name="FILE-ROLLING" class="ch.qos.logback.core.rolling.RollingFileAppender">
         <file>${HOME_LOG}</file>
